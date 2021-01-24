@@ -1,6 +1,6 @@
 {
   "name": "vue-import-components-dynamically",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "homepage": "https://fabiofranchino.github.io/vue-import-components-dynamically",
   "scripts": {
