@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
       <ul>
         <li v-for="c in comps" :key="c.id">
           <router-link :to="c.id">{{c.label}}</router-link>
