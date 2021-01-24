@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h3>Hard refresh doesn't work in this deploy due Github webserver, it does on local run, though.</h3>
       <ul>
         <li v-for="c in comps" :key="c.id">
           <router-link :to="c.id">{{c.label}}</router-link>
